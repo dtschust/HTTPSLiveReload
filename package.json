@@ -1,0 +1,13 @@
+{
+  "name": "HTTPSLiveReload",
+  "version": "0.0.1",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-watch": "git+https://github.com/dtschust/grunt-contrib-watch.git"
+  },
+  "author": "Drew Schuster",
+  "license": "MIT",
+  "description": "LiveReload implementation that works over HTTPS",
+  "url": "https://github.com/dtschust/HTTPSLiveReload"
+}
